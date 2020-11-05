@@ -1,0 +1,13 @@
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\bin\Debug\netcoreapp3.1\ParallelLesson.exe
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\bin\Debug\netcoreapp3.1\ParallelLesson.deps.json
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\bin\Debug\netcoreapp3.1\ParallelLesson.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\bin\Debug\netcoreapp3.1\ParallelLesson.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\bin\Debug\netcoreapp3.1\ParallelLesson.dll
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\bin\Debug\netcoreapp3.1\ParallelLesson.pdb
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.dll
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.pdb
+C:\Users\Luka_ry90\source\repos\ParallelLesson\ParallelLesson\obj\Debug\netcoreapp3.1\ParallelLesson.genruntimeconfig.cache
